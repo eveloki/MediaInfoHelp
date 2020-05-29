@@ -1,0 +1,25 @@
+[quote][size=5]原盘来自@，字幕素材来自XXX字幕组，
+由PTHome字幕组XXX完成双语合并、校对、调整及特效处理。
+字幕转载务必注意礼节，请保留原作者信息，谢绝二次提取修改！
+在此感谢各位原作者及分享者！如有侵权请联系删除！[/size][/quote]
+（加入 PT Gen 信息）
+
+[img]https://images2.imgbox.com/04/6b/Ggp5ReQb_o.png[/img]
+[quote][font=Lucida Console]
+.Release.Info
+ENCODER...................: PTH
+RELEASE DATE..............: {RELEASE DATE}
+RELEASE SiZE..............: {RELEASE SiZE} GiB
+SOURCE....................: XXX (Thanks)
+
+.Media.Info
+RUNTiME...................: {RUNTiME}
+ViDEO CODEC...............: x265 Main10-L5.1 @ {Bit_rate}
+RESOLUTiON................: {RESOLUTiON}
+DiSPLAY ASPECT RATiO......: {DiSPLAY ASPECT RATiO}
+FRAME RATE................: {FRAME RATE}
+BIT DEPTH.................: {BIT DEPTH}
+[/font][/quote]
+
+[img]https://images2.imgbox.com/ce/e7/KCmGFMOB_o.png[/img]
+（加入截图图床地址）
